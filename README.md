@@ -9,10 +9,10 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python 
-- 🌐 &nbsp; HTML | CSS | JavaScript | PHP | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
-- 🖥 &nbsp; Photoshop | Figma
+- 🖥 &nbsp; Photoshop | Premiere Pro
 
 <br/>
 
