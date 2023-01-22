@@ -25,5 +25,5 @@
 <a href="http://bikalasangat.com.np/"><img alt="Website" src="https://img.shields.io/badge/Website-www.bikalpasangat.com.np-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/bikalpa-sangat-2140b3222/"></a>
 <a href="https://www.instagram.com/bikalpa_sangat/"></a>
-<a href="mailto:bikalpasangat1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bikal1000.bs@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:bikalpasangat1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bikalpasangat1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
