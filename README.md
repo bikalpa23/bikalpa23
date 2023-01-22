@@ -8,7 +8,6 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 - 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Git 
