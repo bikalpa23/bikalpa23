@@ -10,7 +10,7 @@
 
 - 💻 &nbsp; Python 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; Photoshop | Premiere Pro
 
