@@ -15,7 +15,7 @@
 
 <br/>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikalpa23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bikalpa23's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikal1000&layout=compact&theme=buefy&hide_border=true" />|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikalpa23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bikalpa23's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikalpa23&layout=compact&theme=buefy&hide_border=true" />|
 | ------------- | ------------- |
 
 <h3> 🤝🏻 Connect with Me </h3>
