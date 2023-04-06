@@ -21,7 +21,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="http://bikalasangat.com.np/"><img alt="Website" src="https://img.shields.io/badge/Website-www.bikalpasangat.com.np-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://bikalpasangat.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.bikalpasangat.com.np-blue?style=flat-square&logo=google-chrome"></a>
  <a href="https://www.linkedin.com/in/bikalpa-sangat/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bikalpa%20Sangat-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/bikalpa_sangat/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bikalpa_sangat_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:bikalpasangat1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bikalpasangat1@gmail.com-blue?style=flat-square&logo=gmail"></a>
