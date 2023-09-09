@@ -11,7 +11,7 @@
 <a href="https://github.com/bikalpa23?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bikalpa23?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/bikalpa23"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-   <a href="https://www.linkedin.com/in/bikalpa-sangat-2140b3222//"><img alt="LinkedIn" src="https://img.shields.io/-blue?style=flat-square&logo=linkedin"></a>
+   <a href="https://www.linkedin.com/in/bikal-shrestha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bikalpa%20Sangat-blue?style=flat-square&logo=linkedin"></a>
     <a href="mailto:bikalpasangat1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a></a>
  </p>
  
