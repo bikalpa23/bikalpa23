@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20this repo%20;Contributed%20to%20100+%2B%20projects%20;1+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/bikalpa23">bikalpa23</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/bikalpa23">Bikalpa Sangat</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
