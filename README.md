@@ -40,7 +40,7 @@
 
 - 🔭 Working on React
 - 🌱 Learning Node.js & more
-- 📫 How to contact me: https://bikalpasangat.com.np
+- 📫 How to contact me: http://bikalpasangat.com.np
 
 
 ## Languages I Know:
