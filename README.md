@@ -7,7 +7,7 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
-  <a href="https://discord.gg/Charlie#1251"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<!--   <a href="https://discord.gg/Charlie#1251"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
 <a href="https://github.com/bikalpa23?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bikalpa23?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/bikalpa23"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -38,7 +38,7 @@
 
 ## What I'm Doing
 
-- 🔭 Working on ChatCool (Bot)
+- 🔭 Working on React
 - 🌱 Learning Node.js & more
 - 📫 How to contact me: https://bikalpasangat.com.np, 
 
