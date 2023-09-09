@@ -10,7 +10,9 @@
 <!--   <a href="https://discord.gg/Charlie#1251"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
 <a href="https://github.com/bikalpa23?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bikalpa23?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/bikalpa23"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href="https://github.com/bikalpa23"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+   <a href="https://www.linkedin.com/in/bikalpasangat/"><img alt="LinkedIn" src="https://www.linkedin.com/in/bikalpa-sangat-2140b3222/-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:bikal1000.bs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bikal1000.bs@gmail.com-blue?style=flat-square&logo=gmail"></a></a>
  </p>
  
 ## Profile Views
