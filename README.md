@@ -45,7 +45,7 @@
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/bikalpa23"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/bikalpa23"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,nodejs"> </a> </p>
 
 ## My Stats:
 <p align="center">
