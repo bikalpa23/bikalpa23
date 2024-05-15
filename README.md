@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="[https://www.google.com/search?q=Al+Siam](http://bikalpasangat.com.np)">「 Google Me 」</a>
+    <a href="http://bikalpasangat.com.np">「 Google Me 」</a>
     <br>
     「 I am a front-end developer from <b></b> 」
     <br>
